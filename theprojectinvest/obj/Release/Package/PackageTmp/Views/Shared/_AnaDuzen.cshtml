@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Style/StyleSheet1.css">
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div id="header" class="sticky">
+
+        <div id="logo">
+            <img src="~/img/logo.png" />
+        </div>
+        <div id="topLinks">
+
+            <ul>
+                <li> <a href="~/Home/AnaSayfa">ANASAYFA</a> </li>
+                <li> <a href="~/Home/Hakkimizda">HAKKIMIZDA</a></li>
+                <li> <a href="~/Home/Sektorler">SEKTÖRLER</a></li>
+                <li class="dropdown"> 
+                    <a href="~/Home/Hizmetlerimiz">HİZMETLERİMİZ</a>
+                       
+                    <div class="dropdown-content">
+                                          
+                        <a href="~/Home/Proje" style="font-size:17px">PROJE DANIŞMANLIĞI</a>
+                                          
+                        <a href="~/Home/Yatirim" style="font-size:17px">YATIRIM DANIŞMANLIĞI</a>
+                                      
+                    </div>
+                </li>
+                <li> <a href="~/Home/Iletisim">İLETİŞİM</a></li>
+            </ul>
+
+        </div>
+
+    </div>
+    
+    <div>
+        @RenderBody()
+    </div>
+
+    <div id="footer">
+        <div id="main" style="margin-top:50px; color:#cccccc;">
+            <div id="adresAlani">
+                <p>
+                    <b>Adres:</b> Ehlibeyt mah. Tekstilciler Cad. Sabri Mermutlu İş Merkezi No:33/19
+                    Çankaya ANKARA
+                </p>
+                <hr />
+                <p><b>Telefon:</b> 0(530) 576 06 23</p>
+            </div>
+            <div id="logoAlani" style="top:-50px;">
+                <img src="~/img/logo.png" />
+            </div>
+        </div>
+        <p style="text-align:center;color:wheat; font-size:15px">&copy;Tüm hakları saklıdır.</p>
+    </div>
+</body>
+</html>

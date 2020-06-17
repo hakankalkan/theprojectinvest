@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\hakan\Desktop\THEPROJECT INVEST</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACtskEdajCkWY9VmoQLwEyAAAAAACAAAAAAAQZgAAAAEAACAAAACVmpxO6q7zRUDSeUfw08FA1sVakGKQ8cB8XGreRHG5swAAAAAOgAAAAAIAACAAAABm9kjc34RllxQA10sHnFuBQV/THBC28BPQODFuZdY2LiAAAABp+9X6XvsLQNg1w8BZG5B7nvAzYm85nyf/6W9KtRbDKkAAAACxHCZgX4Vk0BekySAZGgOofEmRrep9il0/tGwwVTfyJD6qZGzht4SQDQYLRIOkp1a1N2EqZZoxDITMKMzSmgDp</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Start/RouteConfig.cs">
+      <publishTime>03/11/2020 10:40:19</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>03/11/2020 13:24:35</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>03/11/2020 13:24:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/01/2018 12:16:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/01/2018 12:16:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/theprojectinvest.dll">
+      <publishTime>04/06/2020 23:55:34</publishTime>
+    </File>
+    <File Include="bin/theprojectinvest.pdb">
+      <publishTime>04/06/2020 23:55:34</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Helpers.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Mvc.resources.dll">
+      <publishTime>02/01/2018 12:16:54</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Razor.resources.dll">
+      <publishTime>02/01/2018 12:17:16</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Webpages.Deployment.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Webpages.Razor.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Webpages.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="Controllers/HomeController.cs">
+      <publishTime>03/11/2020 10:43:23</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/11/2020 10:40:19</publishTime>
+    </File>
+    <File Include="Global.asax.cs">
+      <publishTime>03/11/2020 10:40:19</publishTime>
+    </File>
+    <File Include="img/1789597.jpg">
+      <publishTime>03/11/2020 10:47:09</publishTime>
+    </File>
+    <File Include="img/ABprojeleri.jpg">
+      <publishTime>03/24/2020 17:25:15</publishTime>
+    </File>
+    <File Include="img/anketCalismalari.jpg">
+      <publishTime>03/24/2020 17:25:15</publishTime>
+    </File>
+    <File Include="img/carousel2.jpg">
+      <publishTime>03/23/2020 19:07:53</publishTime>
+    </File>
+    <File Include="img/carousel3.jpg">
+      <publishTime>04/06/2020 17:28:43</publishTime>
+    </File>
+    <File Include="img/chicago.jpg">
+      <publishTime>03/14/2020 00:28:53</publishTime>
+    </File>
+    <File Include="img/disTicaret.jpg">
+      <publishTime>03/24/2020 17:25:15</publishTime>
+    </File>
+    <File Include="img/hakkımızdaKırpılmış.jpg">
+      <publishTime>04/06/2020 17:01:02</publishTime>
+    </File>
+    <File Include="img/hizmet.png">
+      <publishTime>04/06/2020 22:34:21</publishTime>
+    </File>
+    <File Include="img/hizmetlerimizKırpılmış.jpg">
+      <publishTime>04/06/2020 17:01:02</publishTime>
+    </File>
+    <File Include="img/iconfinder_down_right_172565 %282%29.png">
+      <publishTime>03/21/2020 18:45:34</publishTime>
+    </File>
+    <File Include="img/iconfinder_down_right_172565.png">
+      <publishTime>03/21/2020 18:48:36</publishTime>
+    </File>
+    <File Include="img/iletişimKırpılmış.jpg">
+      <publishTime>04/06/2020 17:01:02</publishTime>
+    </File>
+    <File Include="img/Invest.jpg">
+      <publishTime>03/19/2020 14:47:49</publishTime>
+    </File>
+    <File Include="img/invest_in_social_good_FB.jpg">
+      <publishTime>03/19/2020 14:48:04</publishTime>
+    </File>
+    <File Include="img/kırpılmış600pxGenişlikBulanık.jpg">
+      <publishTime>03/26/2020 16:21:54</publishTime>
+    </File>
+    <File Include="img/la.jpg">
+      <publishTime>03/14/2020 00:29:15</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>03/23/2020 18:41:52</publishTime>
+    </File>
+    <File Include="img/markaDanismanligi.jpg">
+      <publishTime>03/24/2020 17:25:15</publishTime>
+    </File>
+    <File Include="img/ny.jpg">
+      <publishTime>03/14/2020 00:29:32</publishTime>
+    </File>
+    <File Include="img/proje.jpg">
+      <publishTime>03/23/2020 19:07:53</publishTime>
+    </File>
+    <File Include="img/projeFinansmani.jpg">
+      <publishTime>03/24/2020 17:25:09</publishTime>
+    </File>
+    <File Include="img/sağlık.png">
+      <publishTime>04/06/2020 22:00:39</publishTime>
+    </File>
+    <File Include="img/sektörlerimizKırpılmış.jpg">
+      <publishTime>04/06/2020 17:23:13</publishTime>
+    </File>
+    <File Include="img/sosyalBilimselArastirmalar.jpg">
+      <publishTime>03/24/2020 17:25:09</publishTime>
+    </File>
+    <File Include="img/tarım.png">
+      <publishTime>04/06/2020 22:00:39</publishTime>
+    </File>
+    <File Include="img/ticari projeler.jpg">
+      <publishTime>03/24/2020 17:25:09</publishTime>
+    </File>
+    <File Include="img/top-view-photo-of-people-near-wooden-table-3183150.jpg">
+      <publishTime>03/24/2020 17:25:09</publishTime>
+    </File>
+    <File Include="img/yatirimYonetim.jpg">
+      <publishTime>03/24/2020 17:25:15</publishTime>
+    </File>
+    <File Include="img/yatırım.jpg">
+      <publishTime>03/23/2020 19:07:53</publishTime>
+    </File>
+    <File Include="img/yenilenebilir enerji.png">
+      <publishTime>04/06/2020 22:35:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/11/2020 10:41:01</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/11/2020 13:24:19</publishTime>
+    </File>
+    <File Include="Properties/AssemblyInfo.cs">
+      <publishTime>03/11/2020 10:40:04</publishTime>
+    </File>
+    <File Include="Properties/PublishProfiles/FolderProfile.pubxml">
+      <publishTime>03/11/2020 14:05:51</publishTime>
+    </File>
+    <File Include="Style/StyleSheet1.css">
+      <publishTime>04/06/2020 23:29:33</publishTime>
+    </File>
+    <File Include="theprojectinvest.csproj">
+      <publishTime>03/11/2020 13:22:39</publishTime>
+    </File>
+    <File Include="theprojectinvest.csproj.user">
+      <publishTime>03/11/2020 14:08:48</publishTime>
+    </File>
+    <File Include="Views/Home/AnaSayfa.cshtml">
+      <publishTime>04/06/2020 16:14:06</publishTime>
+    </File>
+    <File Include="Views/Home/Hakkimizda.cshtml">
+      <publishTime>04/06/2020 22:49:29</publishTime>
+    </File>
+    <File Include="Views/Home/Hizmetlerimiz.cshtml">
+      <publishTime>04/06/2020 17:53:22</publishTime>
+    </File>
+    <File Include="Views/Home/Iletisim.cshtml">
+      <publishTime>04/06/2020 23:29:45</publishTime>
+    </File>
+    <File Include="Views/Home/Proje.cshtml">
+      <publishTime>03/24/2020 16:11:21</publishTime>
+    </File>
+    <File Include="Views/Home/Sektorler.cshtml">
+      <publishTime>04/06/2020 22:41:03</publishTime>
+    </File>
+    <File Include="Views/Home/Yatirim.cshtml">
+      <publishTime>03/24/2020 16:11:25</publishTime>
+    </File>
+    <File Include="Views/Shared/_AnaDuzen.cshtml">
+      <publishTime>04/06/2020 23:44:26</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>03/11/2020 10:40:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/13/2020 02:07:12</publishTime>
+    </File>
+    <File Include="Web.Debug.config">
+      <publishTime>03/11/2020 10:40:15</publishTime>
+    </File>
+    <File Include="Web.Release.config">
+      <publishTime>03/11/2020 10:40:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

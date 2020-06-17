@@ -1,0 +1,18 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
+
+body {
+    background-image: url('../img/1789597.jpg');
+}
+
+#baslik {
+    position: absolute;
+    width: 50%;
+    height: auto;
+    top: 0;
+    float: left;
+    font-size: 25px;
+    color: white;
+    font-family: 'Cinzel', serif;
+    margin-top: 30px;
+    margin-left: 40px;
+}
